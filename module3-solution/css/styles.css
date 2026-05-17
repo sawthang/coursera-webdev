@@ -1,7 +1,7 @@
 #menu-item{
     background:#ddd;
     padding:15px;
-    height:1000px;
+    min-height:1000px;
 }
 
 .navbar{
